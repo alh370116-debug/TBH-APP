@@ -98,8 +98,7 @@ button{
     <textarea id="message" maxlength="1000" placeholder="Write your message..." required></textarea>
 
     <div class="note">
-      We will show this name to the user if he or she buys Premium.
-      Your message is anonymous to the recipient.
+      We will show this name to the user if he or she buys Premium. Your message is anonymous to the recipient.
     </div>
 
     <button type="submit">Send anonymously</button>
