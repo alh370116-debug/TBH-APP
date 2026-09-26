@@ -99,7 +99,7 @@ button{
 
     <div class="note">
       We will show this name to the user if he or she buys Premium.
-      Your message is anonymous to the recipient, but the TBH admin can see the Instagram username you provide.
+      Your message is anonymous to the recipient.
     </div>
 
     <button type="submit">Send anonymously</button>
